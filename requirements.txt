@@ -7,6 +7,6 @@ tqdm
 torch
 albumentations
 torchvision
-sklearn
+scikit-learn
 pytorch_model_summary
 matplotlib
